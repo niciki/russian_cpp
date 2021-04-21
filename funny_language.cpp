@@ -1,6 +1,5 @@
 #include <iostream>
 
-/* bydlo language */
 #define sprosi std::cin 
 #define skazhi std::cout
 #define op << std::endl
